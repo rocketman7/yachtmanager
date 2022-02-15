@@ -35943,7 +35943,7 @@ b0(){var s,r=this
 r.bD()
 r.r=new A.HJ(r,r)
 r.a.toString
-s=A.WY(null,null,"\ud544\uc694\ud55c \uba54\ub274")
+s=A.WY(null,null,"YACHT MANAGER")
 s=A.ajm(s)
 r.d=s
 A.b(s,"_controller").ah(0,r.gBo())},
